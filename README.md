@@ -1,9 +1,11 @@
-<div align="center">
+
 
 ## 🚀GitHub Explorer
 
 Projeto criado com o objetivo de praticar os fundamentos do ReactJs. Com requisições da API do GitHub onde é possível pesquisasr e listar repositórios dos usuários, mostrando suas issues.
 
+<div align="center">
+  
 ![Gif](https://github.com/EduardoMoreira26/Github-Explorer/blob/master/Screen%20Recording%20(19-09-2020%2014-48-33).gif)
 
 </div>
